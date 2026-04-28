@@ -1,8 +1,4 @@
-This is a comprehensive README designed for a professional GitHub repository or a Hugging Face Space documentation. It highlights both the **Data Science** (the model) and the **Software Engineering** (the deployment) aspects of your project.
-
----
-
-# 📈 StockPulse: End-to-End Market Forecasting Pipeline
+# 📈 Stock_Market _prediction: End-to-End Market Forecasting Pipeline
 
 StockPulse is a production-grade machine learning application that predicts the next day's closing price for any publicly traded stock. It leverages a **Long Short-Term Memory (LSTM)** neural network and integrates real-time financial data via the Yahoo Finance API.
 
