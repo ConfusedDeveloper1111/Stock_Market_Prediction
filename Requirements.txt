@@ -1,0 +1,7 @@
+tensorflow
+yfinance
+pandas
+numpy
+scikit-learn
+joblib
+gradio
