@@ -1,6 +1,7 @@
 # 📈 Stock_Market _prediction: End-to-End Market Forecasting Pipeline
 
 StockPulse is a production-grade machine learning application that predicts the next day's closing price for any publicly traded stock. It leverages a **Long Short-Term Memory (LSTM)** neural network and integrates real-time financial data via the Yahoo Finance API.
+## live demo link: https://huggingface.co/spaces/JBond07/Stock_Market_Prediction
 
 ## 🚀 Key Features
 * **Real-Time Data Ingestion:** Uses `yfinance` to fetch live market data including Open, High, Low, Close, and Volume.
